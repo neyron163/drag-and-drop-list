@@ -1,0 +1,8 @@
+@import '../../styles.css';
+
+.list {
+    margin: 50px auto;
+    max-width: 400px;
+    background: var(--color-blue);
+    padding: 6px;
+}
